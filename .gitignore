@@ -41,7 +41,7 @@ docker-compose.override.yml
 *.jtl
 *.jmx
 jmeter.log
-scrinshots/  # обратите внимание: у вас опечатка в названии папки
+##scrinshots/  # обратите внимание: у вас опечатка в названии папки
 
 # Environment specific files
 .env
